@@ -31,7 +31,8 @@ Soy un **Desarrollador Backend** apasionado por crear soluciones eficientes y es
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicho-cj&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nicho-cj&show_icons=true&theme=codeSTACKr" alt="Estadísticas de GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nicho-cj&langs_count=3&theme=codeSTACKr" alt="Estadísticas de GitHub" />
 </p>
 
 ---
