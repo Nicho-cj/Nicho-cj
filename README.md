@@ -1,16 +1,42 @@
-## Hi there 👋
+###### ¡Hola! 👋 Soy Nicho
 
-<!--
-**Nicho-cj/Nicho-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Desarrollador Backend** apasionado por crear soluciones eficientes y escalables. Actualmente me encuentro enfocado en el desarrollo con tecnologías modernas y en aprender sobre arquitectura de software.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en **Proyectos Personales**
+- 🌱 Estoy aprendiendo sobre **TypeScript**
+- ⚡ Un dato curioso sobre mí: **Toco la Guitarra**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### Lenguajes y Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!--- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />--->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+#### Herramientas y Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicho-cj&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
+
+---
+
+### 📬 Conéctate conmigo
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://linkedin.com/in/cruz-nicholzon-372bb8324)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://twitter.com/nicho-cj)
